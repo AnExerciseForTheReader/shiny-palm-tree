@@ -1,3 +1,0 @@
-# shiny-palm-tree
-
-- Hello
